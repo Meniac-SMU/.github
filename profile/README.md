@@ -9,7 +9,7 @@
 | <img src="https://github.com/nvunwoo.png" width="60" height="60"> | 조현우 | 휴먼AI공학전공<br>게임전공 | 팀장 | 경찰 AI | [@nvunwoo](https://github.com/nvunwoo) |
 | <img src="https://github.com/DrugK.png" width="60" height="60"> | 강민우 | 휴먼AI공학전공<br>게임전공 | 역할 A | 경찰 AI | [@DrugK](https://github.com/DrugK) |
 | <img src="https://github.com" width="60" height="60"> | 김명건 | 휴먼AI공학전공 | 역할 B | 경찰 AI | [@???](https://github.com/) |
-| <img src="https://github.com/parkheechul1" width="60" height="60"> | 박희철 | 휴먼AI공학전공 | 역할 C | 도둑 AI | [@???](https://github.com/parkheechul1) |
+| <img src="https://github.com/parkheechul1.png" width="60" height="60"> | 박희철 | 휴먼AI공학전공 | 역할 C | 도둑 AI | [@???](https://github.com/parkheechul1) |
 | <img src="https://github.com" width="60" height="60"> | 박지훈 | 휴먼AI공학전공 | 역할 D | 도둑 AI | [@???](https://github.com/) |
 
 <br>
